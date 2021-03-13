@@ -1,2 +1,2 @@
 # customer_segmentation
-A repo for my thesis of the Master's Degree of Big Data and Data Science.
+A repo for my thesis for the Master's Degree of Big Data and Data Science.
